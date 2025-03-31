@@ -1,0 +1,20 @@
+header {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  
+  header a.logo-link i {
+    font-size: 28px;
+    vertical-align: middle;
+  }
+  
+  .logo-link h2 {
+    font-size: 20px;
+    margin: 0;
+    line-height: 1;
+  }
